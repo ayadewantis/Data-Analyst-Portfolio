@@ -21,9 +21,6 @@ Tools: Excel
 Advanced SQL and Python for data manipulation
 Machine Learning basics for business applications
 
-📄 Check out my CV:
-[https://drive.google.com/file/d/1wXtr0Mq7t0LSpoRDE7L7xFQwzg9sjhWw/view?usp=sharing]
-
 📫 Let's Connect:
 LinkedIn: [www.linkedin.com/in/aya-dewanti-sofia]
 Email: [dewantiaya@gmail.com]
